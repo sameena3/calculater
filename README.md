@@ -1,0 +1,1 @@
+This is a simple calculator built with React that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. It demonstrates the use of React functional components, state hooks, and event handling.
